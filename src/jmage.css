@@ -1,0 +1,19 @@
+.jmage-image
+{
+	border:3px solid #fff;
+	border-radius: 5px;
+}
+
+.jmage-bg
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #000;
+	filter:alpha(opacity=60);
+	-moz-opacity:0.6;
+	-khtml-opacity: 0.6;
+	opacity: 0.6;
+}
